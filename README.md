@@ -1,5 +1,4 @@
 # Diwali-Sales-Analysis
-# Objective- 
-## Improve Customer experience by analyzing sales data.
-## Increase revenue.
+# Objective- ## 1. Improve Customer Experience by analyzing sales data.
+## 2. Increase revenue.
 
